@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RideMind</string>
+    <string name="start_ride">开始骑行</string>
+    <string name="pause_ride">暂停</string>
+    <string name="resume_ride">继续</string>
+    <string name="finish_ride">结束</string>
+</resources>

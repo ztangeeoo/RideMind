@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.RideMind" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#176B52</item>
+        <item name="colorPrimaryVariant">#0F4F3C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
